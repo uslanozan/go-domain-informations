@@ -1,0 +1,168 @@
+IPv4:  81.3.21.105
+
+Domain Name: copernicus.org
+Registry Domain ID: 2a25ecde910944e1a77741cf13fbde55-LROR
+Registrar WHOIS Server: http://whois.psi-usa.info
+Registrar URL: http://www.psi-usa.info
+Updated Date: 2024-06-20T04:00:13Z
+Creation Date: 1997-05-05T04:00:00Z
+Registry Expiry Date: 2025-05-06T04:00:00Z
+Registrar: PSI-USA, Inc. dba Domain Robot
+Registrar IANA ID: 151
+Registrar Abuse Contact Email: domain-abuse@psi-usa.info
+Registrar Abuse Contact Phone: +49.94159559482
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Copernicus Gesellschaft mbH
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Niedersachsen
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: DE
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: nsa6.schlundtech.de
+Name Server: nsb6.schlundtech.de
+Name Server: nsc6.schlundtech.de
+Name Server: nsd6.schlundtech.de
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-07-23T20:55:17Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Terms of Use: Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.  The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Domain Name: copernicus.org
+Registry Domain ID: 2a25ecde910944e1a77741cf13fbde55-LROR
+Registrar WHOIS Server: whois.psi-usa.info
+Registrar URL: https://www.psi-usa.info
+Updated Date: 2024-06-25T09:56:54Z
+Creation Date: 1997-05-05T04:00:00Z
+Registrar Registration Expiration Date: 2024-09-10T02:55:34Z
+Registrar: PSI-USA, Inc. dba Domain Robot
+Registrar IANA ID: 151
+Registrar Abuse Contact Email: domain-abuse@psi-usa.info
+Registrar Abuse Contact Phone: +49.94159559482
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Copernicus Gesellschaft mbH
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Niedersachsen
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: DE
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: https://whoispro.domain-robot.org/whois/copernicus.org 
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: https://whoispro.domain-robot.org/whois/copernicus.org
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: https://whoispro.domain-robot.org/whois/copernicus.org
+Name Server: nsa6.schlundtech.de
+Name Server: nsb6.schlundtech.de
+Name Server: nsc6.schlundtech.de
+Name Server: nsd6.schlundtech.de
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: https://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-07-23T20:55:17Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/epp
+
+
+# Terms and conditions:
+#
+# The data in the WHOIS database of PSI-USA, Inc. is provided by
+# PSI-USA, Inc. for information purposes, and to assist persons in
+# obtaining information about or related to a domain name registration
+# record.  PSI-USA, Inc. does not guarantee its accuracy.  By submitting
+# a WHOIS query, you agree that you will use this data only for lawful
+# purposes and that, under no circumstances, you will use this data to
+#  (1) allow, enable, or otherwise support the transmission of mass
+#      unsolicited, commercial advertising or solicitations via E-mail
+#      (spam); or
+#  (2) enable high volume, automated, electronic processes that apply to
+#      PSI-USA, Inc. or its systems.
+# PSI-USA, Inc. reserves the right to modify these terms at any time.
+# By submitting this query, you agree to abide by this policy.
+#
+
+% Query time: 1693 msec
+% WHEN: Tue Jul 23 23:55:17 +03 2024
+
+Port 80 is open on copernicus.org
+Port 443 is open on copernicus.org
+Port 22 is open on copernicus.org
+Port 21 is open on copernicus.org
+Port 25 is open on copernicus.org
+Port 110 is open on copernicus.org
+Port 23 is open on copernicus.org
+Port 53 is open on copernicus.org
+Port 123 is open on copernicus.org
+Port 3389 is open on copernicus.org
+IPv4:  211.218.150.58
+
+Port 80 is open on irotech.com
+Port 443 is open on irotech.com
+Port 22 is closed on irotech.com
+Port 21 is closed on irotech.com
+Port 25 is closed on irotech.com
+Port 110 is closed on irotech.com
+Port 23 is closed on irotech.com
+Port 53 is closed on irotech.com
+Port 123 is closed on irotech.com
+Port 3389 is closed on irotech.com
