@@ -33,3 +33,11 @@ Bu proje, belirli bir alan adıyla ilişkili bilgileri toplamak için **Go** pro
 4. Site URL'sini ve Google API anahtarınızı girin:
    ```bash
    Enter Site URL: YOUR_SITE_URL
+
+
+📖 Kullanım
+Verilen Site ile Alakalı Google Taraması
+Proje, belirtilen site ile alakalı Google taraması yapar ve sonuçlar arasında bulunan Excel dosyalarının linklerini toplar.
+
+Site İçerisindeki Bağlantılı Linklerin Toplanması
+Proje, verilen site içerisindeki tüm bağlantıları tarar ve toplar. Bu bağlantılar daha sonra analiz için kullanılabilir.
