@@ -35,7 +35,7 @@ Bu proje, belirli bir alan adıyla ilişkili bilgileri toplamak için **Go** pro
    Enter Site URL: YOUR_SITE_URL
 
 
-📖 Kullanım
+## 📖 Kullanım
 Verilen Site ile Alakalı Google Taraması
 Proje, belirtilen site ile alakalı Google taraması yapar ve sonuçlar arasında bulunan Excel dosyalarının linklerini toplar.
 
