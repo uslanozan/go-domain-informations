@@ -33,4 +33,3 @@ Bu proje, belirli bir alan adıyla ilişkili bilgileri toplamak için **Go** pro
 4. Site URL'sini ve Google API anahtarınızı girin:
    ```bash
    Enter Site URL: YOUR_SITE_URL
-   Enter Google API Key: YOUR_GOOGLE_API_KEY
